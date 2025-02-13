@@ -1,5 +1,5 @@
-In this project, I will use foundational data analysis tools with Microsoft Excel using sales data from a sample company. 
-I will use sorting and filtering tools, IF and VLOOKUP functions, and PivotTables.
+In this project, I have used foundational data analysis tools with Microsoft Excel using sales data from a sample company. 
+I used sorting and filtering tools, IF and VLOOKUP functions, and PivotTables.
 
 Learning Objectives:
 Perform data analysis using sorting and filtering tools.
